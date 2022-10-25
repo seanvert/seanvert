@@ -1,2 +1,2 @@
 ### 👋
-Oi, mexendo com react.
+Oi, estou mexendo com react e rust.
