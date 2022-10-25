@@ -1,3 +1,2 @@
 ### 👋
-Oi
-sdfsadfasdfasdfasdfasdfasdfasdf
+Oi, mexendo com react.
